@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-## Codin' is fun
+## Interests ML (vision, representation learning, TSF, LLMs, MLops)
 
 - I'm based in France!
-- 🌱 I’m currently learning html/css and js
-- 👯 I’m looking to collaborate on personal or professional projects
-- 🤔 I’m looking for help with js for web developpement
-
+- 👯 I’m looking to collaborate on personal or professional LTSFT (long time series forecasting) projects
